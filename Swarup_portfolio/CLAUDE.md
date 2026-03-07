@@ -11,7 +11,7 @@ Swarup Kadam's Portfolio is a React + TypeScript single-page site focused on:
 - GitHub contribution graph display
 - Responsive design and WhatsApp contact flow
 
-Live demo: https://swarup-portfolio.vercel.app/
+Live demo: https://swarupkadam.vercel.app/
 
 ## Tech Stack
 
