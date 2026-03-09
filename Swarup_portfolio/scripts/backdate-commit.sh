@@ -7,7 +7,7 @@ set -euo pipefail
 #   scripts/backdate-commit.sh "Your commit message" "2026-03-03 18:30:00"
 #   scripts/backdate-commit.sh "Your commit message" "2026-03-03 18:30:00" --empty-count 5
 
-MESSAGE="${1:-Backdated commit}"
+MESSAGE="${1:-Basic changes}"
 DATE_TIME="${2:-2026-03-03 18:30:00}"
 EMPTY_COUNT=0
 
