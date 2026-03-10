@@ -3,7 +3,7 @@ import SectionBlock from './SectionBlock';
 const experiences = [
   {
   role: 'Full Stack & Cloud Developer',
-  company: 'Independent Projects',
+  company: 'Technical projects',
   period: '\u00a02024 – Present',
   description:
     'Designed and built multiple full-stack and cloud-based systems including an Azure automation platform (CMM), a YouTube metadata & downloader service, and a Java-based 2D RPG game engine. Worked across React, TypeScript, Node.js, and Microsoft Azure to develop scalable applications, REST APIs, and automation tools while following modern Git-based development workflows.',
