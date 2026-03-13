@@ -49,7 +49,7 @@ const projects = [
     'OOP'
   ],
   githubUrl: 'https://github.com/swarupkadam/2D-Game',
-  liveUrl: 'https://github.com/swarupkadam/2D-Game',
+  liveUrl: 'https://swarupkadam.github.io/2D-Game/',
 },
 ];
 

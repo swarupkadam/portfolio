@@ -11,7 +11,7 @@ const Finale = () => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: Github, href: 'https://github.com/swaruokadam', label: 'GitHub' },
+    { icon: Github, href: 'https://github.com/swarupkadam', label: 'GitHub' },
     {
       icon: Linkedin,
       href: 'https://linkedin.com/in/swarupkadam',

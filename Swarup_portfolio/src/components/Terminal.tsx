@@ -306,9 +306,11 @@ const Terminal = () => {
             />
             <div
               className="w-3 h-3 rounded-full bg-yellow-500 hover:bg-yellow-600 cursor-pointer"
+            />
+            <div
+              className="w-3 h-3 rounded-full bg-green-500 hover:bg-green-600 cursor-pointer"
               onClick={() => setIsMaximized(!isMaximized)}
             />
-            <div className="w-3 h-3 rounded-full bg-green-500 hover:bg-green-600 cursor-pointer" />
             <span className="ml-2 text-white/60 text-xs">
               guest@swarup-portfolio:~
             </span>
